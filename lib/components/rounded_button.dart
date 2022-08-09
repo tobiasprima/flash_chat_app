@@ -8,7 +8,7 @@ class RoundedButton extends StatelessWidget {
 
   final Color color;
   final String buttonTitle;
-  final Future onPressed;
+  Function onPressed;
 
   @override
   Widget build(BuildContext context) {

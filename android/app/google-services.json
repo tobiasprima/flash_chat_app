@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57270036009",
+    "project_id": "flash-chat-e64a3",
+    "storage_bucket": "flash-chat-e64a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57270036009:android:3f68f997494e90c1a3de38",
+        "android_client_info": {
+          "package_name": "com.tobiasprima.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57270036009-f2jr1sgnk1no0r0jtlk3vo2h424cutr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCzqNR1_ayMkGJVcStD8G__EJkF0oi0EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57270036009-f2jr1sgnk1no0r0jtlk3vo2h424cutr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
